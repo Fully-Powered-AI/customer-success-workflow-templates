@@ -25,7 +25,7 @@
     "client-status-update-preparation"
   ],
   "evidence": {
-    "written_by": "Fully Powered AI",
+    "written_by": "FullyPowered AI",
     "source_and_rights_reviewed": true,
     "editorially_reviewed": "2026-11-10",
     "package_format_valid": true,
@@ -41,7 +41,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "Fully Powered AI's own published map of customer success work: the reader, trigger, inputs, output and decision for telling customers what happened to their feedback, and the method, rules, stop conditions, output format, tests and worked example written from how that work is done."
+      "title": "FullyPowered AI's own published map of customer success work: the reader, trigger, inputs, output and decision for telling customers what happened to their feedback, and the method, rules, stop conditions, output format, tests and worked example written from how that work is done."
     }
   ]
 }

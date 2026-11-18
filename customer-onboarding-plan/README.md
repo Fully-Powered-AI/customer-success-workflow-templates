@@ -48,11 +48,11 @@ Write your facts once: your usual onboarding steps, who on your team owns each, 
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example on 9 November 2026 in two runs. The first showed where the instructions left room to guess, such as how the window's last day is counted, whether a customer's data file comes before the first milestone or is the first milestone, and what to do with usual steps or sessions beyond what was sold; the instructions and the example were revised. The record of the second run is published with it: the plan held every section, the window, the settle-first item, the routing of unsold requests and the questions about seats and sessions came out as intended, and the record lists the small edits made afterward that have not been run again. The progress run, the check for a customer gone quiet and the list of reasons a customer stalls have not been tried. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example on 9 November 2026 in two runs. The first showed where the instructions left room to guess, such as how the window's last day is counted, whether a customer's data file comes before the first milestone or is the first milestone, and what to do with usual steps or sessions beyond what was sold; the instructions and the example were revised. The record of the second run is published with it: the plan held every section, the window, the settle-first item, the routing of unsold requests and the questions about seats and sessions came out as intended, and the record lists the small edits made afterward that have not been run again. The progress run, the check for a customer gone quiet and the list of reasons a customer stalls have not been tried. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three customers whose onboarding your team remembers well, plus hard cases written in advance: a promise made only in an email, a kickoff request that was never sold, a customer who goes quiet in week two, a status sheet with a column the template does not know. Your customer success lead checks every date, owner and draft before anything goes out. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 9 November 2026.
 - Package format checked by script on every release.
@@ -83,4 +83,4 @@ Testing in your environment means running it on two or three customers whose onb
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

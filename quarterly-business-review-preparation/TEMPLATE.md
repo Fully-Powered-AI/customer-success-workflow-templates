@@ -308,4 +308,4 @@ bank details found in the inputs; tell the user to remove them.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by Fully Powered AI. Editorially reviewed. Tried on its invented example on 9 November 2026 in two runs: the instructions and the worked example's output were revised after the first run and its review, and the second is the run recorded. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 9 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its invented example on 9 November 2026 in two runs: the instructions and the worked example's output were revised after the first run and its review, and the second is the run recorded. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

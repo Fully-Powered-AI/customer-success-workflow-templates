@@ -61,11 +61,11 @@ It sits between two other workflow templates. [Customer feedback themes](https:/
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026 in two runs; the record of the second, made on the instructions as revised after the first, is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026 in two runs; the record of the second, made on the instructions as revised after the first, is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a change your team shipped recently, with hard cases written in advance: a person who asked twice, a customer who has opted out, a request tied to a renewal, an internal target date in the record, an export with a renamed column. The account owner checks every draft against the change record before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
@@ -96,4 +96,4 @@ Testing in your environment means running it on a change your team shipped recen
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

@@ -1,6 +1,6 @@
 # Client-status update preparation
 
-Workflow template 0.1.0. Written by Fully Powered AI.
+Workflow template 0.1.0. Written by FullyPowered AI.
 
 ## Purpose
 
@@ -163,4 +163,4 @@ Paste the output format from this template below the instructions.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by Fully Powered AI. Editorially reviewed. Not yet tested in a client environment. Not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.
+- 0.1.0, 9 November 2026. Written by FullyPowered AI. Editorially reviewed. Not yet tested in a client environment. Not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.
