@@ -1,10 +1,17 @@
 # Account commitments check
 
-Before the next customer conversation, the account manager gets one list of what each side promised in recent meetings and emails, each linked to its source and marked open, done or unclear, with a suggested owner. Nothing goes to the customer.
+One list of what each side promised in recent meetings and emails, linked to its source and marked open, done or unclear. Nothing goes to the customer.
 
-*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/account-commitments-check/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Account commitments check on our website](https://fullypowered.ai/workflows/account-commitments-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-commitments-check&from=gh-account-commitments-check) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/account-commitments-check/?from=gh-account-commitments-check)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/account-commitments-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-commitments-check&from=gh-account-commitments-check)*
 
 ## The outcome
 
@@ -36,14 +43,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Software technology](https://fullypowered.ai/industries/software-technology/): fixes, access and training promised in support calls are easy to lose before the renewal.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): promises about deliverables and dates are made by several people across a long engagement.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/): a retainer collects small promises in weekly calls and email threads.
-- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/): the check an account manager makes before facing the customer.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): more accounts per manager means more promises held only in memory.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/): long relationships carry promises from before the current team.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-commitments-check&from=gh-account-commitments-check): fixes, access and training promised in support calls are easy to lose before the renewal.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-commitments-check&from=gh-account-commitments-check): promises about deliverables and dates are made by several people across a long engagement.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-commitments-check&from=gh-account-commitments-check): a retainer collects small promises in weekly calls and email threads.
+- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-commitments-check&from=gh-account-commitments-check): the check an account manager makes before facing the customer.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-commitments-check&from=gh-account-commitments-check): more accounts per manager means more promises held only in memory.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-commitments-check&from=gh-account-commitments-check): long relationships carry promises from before the current team.
 
-It is separate from [meeting agenda, notes and follow-ups](https://fullypowered.ai/workflows/meeting-agenda-notes-and-follow-ups/), which serves one internal meeting, and from [quarterly business review preparation](https://fullypowered.ai/workflows/quarterly-business-review-preparation/), which builds the review around the customer's goals. It is also separate from the [sales call preparation brief](https://fullypowered.ai/workflows/sales-call-preparation-brief/), which is a sales brief for one prospect that includes what has been said and promised so far; this is a two-sided list of promises with a status for each, for an existing customer. [Account handoff](https://fullypowered.ai/workflows/account-handoff/) records what was promised in the sale.
+It is separate from [meeting agenda, notes and follow-ups](https://fullypowered.ai/workflows/meeting-agenda-notes-and-follow-ups/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-commitments-check&from=gh-account-commitments-check), which serves one internal meeting, and from [quarterly business review preparation](https://fullypowered.ai/workflows/quarterly-business-review-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-commitments-check&from=gh-account-commitments-check), which builds the review around the customer's goals. It is also separate from the [sales call preparation brief](https://fullypowered.ai/workflows/sales-call-preparation-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-commitments-check&from=gh-account-commitments-check), which is a sales brief for one prospect that includes what has been said and promised so far; this is a two-sided list of promises with a status for each, for an existing customer. [Account handoff](https://fullypowered.ai/workflows/account-handoff/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-commitments-check&from=gh-account-commitments-check) records what was promised in the sale.
 
 ## What has to change for your company
 
@@ -53,7 +60,7 @@ Decide how far back the period reaches and where the notes live. Set the owner y
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on an account whose history your account manager already knows, with cases agreed first: a promise whose date moved, a promise kept but never written down, a hopeful remark, a note with no speaker named. The account manager checks every line against its source before anyone relies on the list. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on an account whose history your account manager already knows, with cases agreed first: a promise whose date moved, a promise kept but never written down, a hopeful remark, a note with no speaker named. The account manager checks every line against its source before anyone relies on the list. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-commitments-check&from=gh-account-commitments-check) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-commitments-check&from=gh-account-commitments-check) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -80,11 +87,11 @@ Testing in your environment means running it on an account whose history your ac
 
 ## Related workflow templates
 
-- [Meeting agenda, notes and follow-ups](https://fullypowered.ai/workflows/meeting-agenda-notes-and-follow-ups/)
+- [Meeting agenda, notes and follow-ups](https://fullypowered.ai/workflows/meeting-agenda-notes-and-follow-ups/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-commitments-check&from=gh-account-commitments-check)
 - [Quarterly business review preparation](../quarterly-business-review-preparation/)
 - [Account handoff](../account-handoff/)
-- [Sales call preparation brief](https://fullypowered.ai/workflows/sales-call-preparation-brief/)
+- [Sales call preparation brief](https://fullypowered.ai/workflows/sales-call-preparation-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-commitments-check&from=gh-account-commitments-check)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-commitments-check&from=gh-account-commitments-check).

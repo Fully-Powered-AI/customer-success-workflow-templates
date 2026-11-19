@@ -1,10 +1,17 @@
 # Churn risk and save plan
 
-Once a quarter, the owner or account lead sees why customers really left, read from your own cancellation notes and records, how many left for each cause, and one change to try for each, with an owner, a start date and the count that will show whether it helped. A person decides every change.
+Each quarter, see why customers really left, read from your own records, with one change to try for each cause. A person decides every change.
 
-*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/churn-risk-and-save-plan/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Churn risk and save plan on our website](https://fullypowered.ai/workflows/churn-risk-and-save-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-churn-risk-and-save-plan&from=gh-churn-risk-and-save-plan) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/churn-risk-and-save-plan/?from=gh-churn-risk-and-save-plan)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/churn-risk-and-save-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-churn-risk-and-save-plan&from=gh-churn-risk-and-save-plan)*
 
 ## The outcome
 
@@ -32,19 +39,19 @@ One plan in a fixed order. It opens with the coverage: every leaver read, exclud
 
 After that come the leavers lost to failed payments, when in their time as customers people left, and the early signs that showed up in their records beforehand, which you can add to the warning signs your account team watches. The save plan lists the changes, each with an owner, a start-by date, its approver and the count to read next time. The questions for named people close the plan.
 
-This is the pattern across everyone who left. For the accounts renewing next, [renewal risk review](https://fullypowered.ai/workflows/renewal-risk-review/) works account by account.
+This is the pattern across everyone who left. For the accounts renewing next, [renewal risk review](https://fullypowered.ai/workflows/renewal-risk-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-churn-risk-and-save-plan&from=gh-churn-risk-and-save-plan) works account by account.
 
 See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/), which owns keeping customers and the changes that help.
-- [Customer support and service](https://fullypowered.ai/functions/customer-support-and-service/), where cancellations arrive and the records that explain them are kept.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where monthly plans make every cancellation visible and every cause worth reading.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where retainers end quietly and the reasons live in account notes.
-- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where subscriptions and memberships lose customers to failed cards as well as choices.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when new customers arrive faster than setup can keep up.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where long-standing customers leave and nobody has put the reasons side by side.
+- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-churn-risk-and-save-plan&from=gh-churn-risk-and-save-plan), which owns keeping customers and the changes that help.
+- [Customer support and service](https://fullypowered.ai/functions/customer-support-and-service/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-churn-risk-and-save-plan&from=gh-churn-risk-and-save-plan), where cancellations arrive and the records that explain them are kept.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-churn-risk-and-save-plan&from=gh-churn-risk-and-save-plan), where monthly plans make every cancellation visible and every cause worth reading.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-churn-risk-and-save-plan&from=gh-churn-risk-and-save-plan), where retainers end quietly and the reasons live in account notes.
+- [Ecommerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-churn-risk-and-save-plan&from=gh-churn-risk-and-save-plan), where subscriptions and memberships lose customers to failed cards as well as choices.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-churn-risk-and-save-plan&from=gh-churn-risk-and-save-plan), when new customers arrive faster than setup can keep up.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-churn-risk-and-save-plan&from=gh-churn-risk-and-save-plan), where long-standing customers leave and nobody has put the reasons side by side.
 
 ## What has to change for your company
 
@@ -54,7 +61,7 @@ Write down your reason groups, or start from the starter set and adjust it to th
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example on 9 November 2026 in one run; the record is published with it and lists the ambiguities it met. The instructions were then clarified on five of those points, including when a message to customers needs approval and what counts as a tie when ordering the changes. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past quarter whose leavers your team remembers well, plus hard cases written in advance: a stated reason that hides an earlier cause, a leaver with a support ticket and nothing else, a note asking for a record to be changed. The head of customer success checks every cause and count against the records before anyone acts on the plan. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past quarter whose leavers your team remembers well, plus hard cases written in advance: a stated reason that hides an earlier cause, a leaver with a support ticket and nothing else, a note asking for a record to be changed. The head of customer success checks every cause and count against the records before anyone acts on the plan. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-churn-risk-and-save-plan&from=gh-churn-risk-and-save-plan) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-churn-risk-and-save-plan&from=gh-churn-risk-and-save-plan) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -82,9 +89,9 @@ Testing in your environment means running it on a past quarter whose leavers you
 ## Related workflow templates
 
 - [Renewal risk review](../renewal-risk-review/)
-- [Win-loss review](https://fullypowered.ai/workflows/win-loss-review/)
-- [Customer interview synthesis](https://fullypowered.ai/workflows/customer-interview-synthesis/)
+- [Win-loss review](https://fullypowered.ai/workflows/win-loss-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-churn-risk-and-save-plan&from=gh-churn-risk-and-save-plan)
+- [Customer interview synthesis](https://fullypowered.ai/workflows/customer-interview-synthesis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-churn-risk-and-save-plan&from=gh-churn-risk-and-save-plan)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-churn-risk-and-save-plan&from=gh-churn-risk-and-save-plan).

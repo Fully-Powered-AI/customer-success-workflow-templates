@@ -1,10 +1,17 @@
 # Account health review across the book
 
-Each week or month, the customer success lead sees which accounts in the book need attention, what changed since the last period and the evidence, judged by your own warning signs across usage, support, billing and relationship exports, and which accounts are missing data. A person decides who looks into each.
+See which accounts in your book need attention each period, what changed and the evidence, judged by your own warning signs. A person decides who looks.
 
-*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/account-health-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Account health review across the book on our website](https://fullypowered.ai/workflows/account-health-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-health-review&from=gh-account-health-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/account-health-review/?from=gh-account-health-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/account-health-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-health-review&from=gh-account-health-review)*
 
 ## The outcome
 
@@ -39,24 +46,24 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/), which owns the health of every account between onboarding and renewal.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where usage, tickets and invoices sit in three different systems and a falling usage count is often the first warning.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where retained clients go quiet or stop paying on time long before they say anything.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where an agency's account leads need to know which retained clients have changed contacts or stopped answering.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the book grows past what the team can keep in its head.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where long-standing accounts are assumed healthy because nobody has looked.
+- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-health-review&from=gh-account-health-review), which owns the health of every account between onboarding and renewal.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-health-review&from=gh-account-health-review), where usage, tickets and invoices sit in three different systems and a falling usage count is often the first warning.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-health-review&from=gh-account-health-review), where retained clients go quiet or stop paying on time long before they say anything.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-health-review&from=gh-account-health-review), where an agency's account leads need to know which retained clients have changed contacts or stopped answering.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-health-review&from=gh-account-health-review), when the book grows past what the team can keep in its head.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-health-review&from=gh-account-health-review), where long-standing accounts are assumed healthy because nobody has looked.
 
 ## What has to change for your company
 
 Write down your warning signs: the export and column each reads and the level that sets it off, such as how far usage must fall or how many days of silence count. Choose the usage figure that means real use for your product or service. Map your exports' column headings to the ones the workflow template expects, once. Decide the period, weekly or monthly, and how the needs-attention list is ordered; by default it runs largest annual value first. Name who keeps each export, so every gap goes to someone. It runs in ChatGPT, Claude, Copilot or Gemini from the files you supply; it needs no connection to your CRM, help desk or billing system and never asks for a password.
 
-It looks at the whole book for change. Contracts coming up for renewal, with notice dates and next steps, are the [renewal risk review](https://fullypowered.ai/workflows/renewal-risk-review/); why customers have already left is the [churn risk and save plan](https://fullypowered.ai/workflows/churn-risk-and-save-plan/); regular customers who have stopped buying are [lapsed customer win-back](https://fullypowered.ai/workflows/lapsed-customer-win-back/).
+It looks at the whole book for change. Contracts coming up for renewal, with notice dates and next steps, are the [renewal risk review](https://fullypowered.ai/workflows/renewal-risk-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-health-review&from=gh-account-health-review); why customers have already left is the [churn risk and save plan](https://fullypowered.ai/workflows/churn-risk-and-save-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-health-review&from=gh-account-health-review); regular customers who have stopped buying are [lapsed customer win-back](https://fullypowered.ai/workflows/lapsed-customer-win-back/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-health-review&from=gh-account-health-review).
 
 ## What has been checked
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 12 November 2026. It was tried once on its invented example on 12 November 2026, in Claude, and the record is published. It has not been tested in a client environment and has not been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past periods whose problem accounts your team already knows, with hard cases written in advance: an account missing from the usage export, a drop your context notes explain, a customer whose only recent contact was a newsletter, a note asking for a flag to be cleared. The head of customer success checks every sign against the exports before anyone acts. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three past periods whose problem accounts your team already knows, with hard cases written in advance: an account missing from the usage export, a drop your context notes explain, a customer whose only recent contact was a newsletter, a note asking for a flag to be cleared. The head of customer success checks every sign against the exports before anyone acts. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-health-review&from=gh-account-health-review) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-health-review&from=gh-account-health-review) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -89,4 +96,4 @@ Testing in your environment means running it on two or three past periods whose 
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-health-review&from=gh-account-health-review).

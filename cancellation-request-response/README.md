@@ -1,10 +1,17 @@
 # Cancellation request response
 
-When a customer asks to cancel or cut back, the account manager gets one page: the request and the reason in the customer's words, the account's recent history, only the options your business already approved that fit that reason, and a reply that confirms the choice and what happens next. A person sends it.
+When a customer asks to cancel, get one page with the request, account history, approved options that fit and a reply draft. A person sends it.
 
-*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/cancellation-request-response/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Cancellation request response on our website](https://fullypowered.ai/workflows/cancellation-request-response/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-cancellation-request-response&from=gh-cancellation-request-response) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/cancellation-request-response/?from=gh-cancellation-request-response)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/cancellation-request-response/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-cancellation-request-response&from=gh-cancellation-request-response)*
 
 ## The outcome
 
@@ -31,19 +38,19 @@ The account manager who owns the account, or whoever handles cancellations, runs
 
 One page in a fixed order: the request, the stated reason with its reason group, the account history, the ending facts as supplied, the options that fit and the ones left out with why, the reply draft with any optional paragraphs, what to confirm before sending, the steps for billing, support and the account record once the outcome is settled, and questions for named roles. Any note asking for a pressure tactic or an unapproved offer is quoted and not followed.
 
-This handles one customer's request on the day it arrives. To read the pattern across everyone who left in a quarter, use [churn risk and save plan](https://fullypowered.ai/workflows/churn-risk-and-save-plan/); to prepare the month's renewals, use [renewal risk review](https://fullypowered.ai/workflows/renewal-risk-review/).
+This handles one customer's request on the day it arrives. To read the pattern across everyone who left in a quarter, use [churn risk and save plan](https://fullypowered.ai/workflows/churn-risk-and-save-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-cancellation-request-response&from=gh-cancellation-request-response); to prepare the month's renewals, use [renewal risk review](https://fullypowered.ai/workflows/renewal-risk-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-cancellation-request-response&from=gh-cancellation-request-response).
 
 See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/), which owns the account and the conversation about its future.
-- [Customer support and service](https://fullypowered.ai/functions/customer-support-and-service/), where many cancellation requests first arrive and where access and data steps are carried out.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where monthly plans, seats and tiers make cancelling and cutting back everyday requests.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where a retainer that shrinks or ends deserves a considered reply from the person who knows the client.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where agency retainers are reduced or paused as clients' budgets and seasons change.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where long-standing customers expect to be treated well on the way out.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when requests arrive faster than the senior account manager can answer each one.
+- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-cancellation-request-response&from=gh-cancellation-request-response), which owns the account and the conversation about its future.
+- [Customer support and service](https://fullypowered.ai/functions/customer-support-and-service/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-cancellation-request-response&from=gh-cancellation-request-response), where many cancellation requests first arrive and where access and data steps are carried out.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-cancellation-request-response&from=gh-cancellation-request-response), where monthly plans, seats and tiers make cancelling and cutting back everyday requests.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-cancellation-request-response&from=gh-cancellation-request-response), where a retainer that shrinks or ends deserves a considered reply from the person who knows the client.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-cancellation-request-response&from=gh-cancellation-request-response), where agency retainers are reduced or paused as clients' budgets and seasons change.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-cancellation-request-response&from=gh-cancellation-request-response), where long-standing customers expect to be treated well on the way out.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-cancellation-request-response&from=gh-cancellation-request-response), when requests arrive faster than the senior account manager can answer each one.
 
 ## What has to change for your company
 
@@ -53,7 +60,7 @@ Write down your approved options, with the reasons each fits, its conditions, wh
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, a second time after earlier fixes, and the record of that run is published with it. The example's output was edited after the first run and the record was rewritten for the second run. No edit has been made since. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on past requests your account team remembers well, plus hard cases written in advance: a customer closing down, one who says no offers, an option whose condition the records cannot show, a note asking for a deadline to be added. The account manager checks every date and term in the reply against the service owner's ending facts before anything is sent. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on past requests your account team remembers well, plus hard cases written in advance: a customer closing down, one who says no offers, an option whose condition the records cannot show, a note asking for a deadline to be added. The account manager checks every date and term in the reply against the service owner's ending facts before anything is sent. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-cancellation-request-response&from=gh-cancellation-request-response) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-cancellation-request-response&from=gh-cancellation-request-response) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -82,8 +89,8 @@ Testing in your environment means running it on past requests your account team 
 
 - [Churn risk and save plan](../churn-risk-and-save-plan/)
 - [Renewal risk review](../renewal-risk-review/)
-- [Customer reply drafting](https://fullypowered.ai/workflows/customer-reply-drafting/)
+- [Customer reply drafting](https://fullypowered.ai/workflows/customer-reply-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-cancellation-request-response&from=gh-cancellation-request-response)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-cancellation-request-response&from=gh-cancellation-request-response).

@@ -1,10 +1,17 @@
 # Client-status update preparation
 
-Every client gets an accurate status update on schedule, drafted from the notes and the task list, with confirmed dates kept apart from estimates and the client’s open decisions in plain view.
+Drafts each client’s status update from your notes and task list, with confirmed dates apart from estimates. A person reviews and sends it.
 
-*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-status-update-preparation/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Client-status update preparation on our website](https://fullypowered.ai/workflows/client-status-update-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-client-status-update-preparation&from=gh-client-status-update-preparation) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/client-status-update-preparation/?from=gh-client-status-update-preparation)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-status-update-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-client-status-update-preparation&from=gh-client-status-update-preparation)*
 
 ## The outcome
 
@@ -33,12 +40,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Law firms](https://fullypowered.ai/industries/law-firms/): matter status drafted for the responsible attorney.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): engagement updates that keep client inputs visible.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/): design dates that depend on client choices.
-- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/): the update is the relationship between meetings.
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/): the plan and the client’s view of it agree.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): more clients per lead without updates slipping.
+- [Law firms](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-client-status-update-preparation&from=gh-client-status-update-preparation): matter status drafted for the responsible attorney.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-client-status-update-preparation&from=gh-client-status-update-preparation): engagement updates that keep client inputs visible.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-client-status-update-preparation&from=gh-client-status-update-preparation): design dates that depend on client choices.
+- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-client-status-update-preparation&from=gh-client-status-update-preparation): the update is the relationship between meetings.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-client-status-update-preparation&from=gh-client-status-update-preparation): the plan and the client’s view of it agree.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-client-status-update-preparation&from=gh-client-status-update-preparation): more clients per lead without updates slipping.
 
 ## What has to change for your company
 
@@ -53,7 +60,7 @@ We start from what the client should know after reading, map the work from notes
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your firm means drafting updates for recent weeks and comparing them with what was sent, including a week where a date slipped and one where the notes and the task list disagree. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record we keep.
+Testing in your firm means drafting updates for recent weeks and comparing them with what was sent, including a week where a date slipped and one where the notes and the task list disagree. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-client-status-update-preparation&from=gh-client-status-update-preparation) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-client-status-update-preparation&from=gh-client-status-update-preparation) shows the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -80,8 +87,8 @@ Testing in your firm means drafting updates for recent weeks and comparing them 
 ## Related workflow templates
 
 - [Account handoff](../account-handoff/)
-- [Weekly receivables summary](https://fullypowered.ai/workflows/weekly-receivables-summary/)
+- [Weekly receivables summary](https://fullypowered.ai/workflows/weekly-receivables-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-client-status-update-preparation&from=gh-client-status-update-preparation)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-client-status-update-preparation&from=gh-client-status-update-preparation).

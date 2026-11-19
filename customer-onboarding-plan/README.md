@@ -1,10 +1,17 @@
 # Customer onboarding plan
 
-For every new customer, your customer success lead gets one plan for the first weeks: the result the customer must reach, the fewest milestones that get them there with an owner on each side, the promises both sides made, and each message as a draft. Nothing is sent until a person approves it.
+Give each new customer one plan for the first weeks: milestones with owners on both sides, commitments and draft messages. A person approves every message.
 
-*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/customer-onboarding-plan/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Customer onboarding plan on our website](https://fullypowered.ai/workflows/customer-onboarding-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-customer-onboarding-plan&from=gh-customer-onboarding-plan) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/customer-onboarding-plan/?from=gh-customer-onboarding-plan)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/customer-onboarding-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-customer-onboarding-plan&from=gh-customer-onboarding-plan)*
 
 ## The outcome
 
@@ -38,11 +45,11 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/), which owns the first weeks of every account and the renewal that follows them.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where the first weeks decide whether a subscription is part of the customer's working week by renewal time.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where a new client's first weeks set the working rhythm for the engagement.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where an agency's new retainer needs access, assets and approvals before any work can show.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when new customers arrive faster than one person can plan each start by hand.
+- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-customer-onboarding-plan&from=gh-customer-onboarding-plan), which owns the first weeks of every account and the renewal that follows them.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-customer-onboarding-plan&from=gh-customer-onboarding-plan), where the first weeks decide whether a subscription is part of the customer's working week by renewal time.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-customer-onboarding-plan&from=gh-customer-onboarding-plan), where a new client's first weeks set the working rhythm for the engagement.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-customer-onboarding-plan&from=gh-customer-onboarding-plan), where an agency's new retainer needs access, assets and approvals before any work can show.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-customer-onboarding-plan&from=gh-customer-onboarding-plan), when new customers arrive faster than one person can plan each start by hand.
 
 ## What has to change for your company
 
@@ -52,7 +59,7 @@ Write your facts once: your usual onboarding steps, who on your team owns each, 
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example on 9 November 2026 in two runs. The first showed where the instructions left room to guess, such as how the window's last day is counted, whether a customer's data file comes before the first milestone or is the first milestone, and what to do with usual steps or sessions beyond what was sold; the instructions and the example were revised. The record of the second run is published with it: the plan held every section, the window, the settle-first item, the routing of unsold requests and the questions about seats and sessions came out as intended, and the record lists the small edits made afterward that have not been run again. The progress run, the check for a customer gone quiet and the list of reasons a customer stalls have not been tried. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three customers whose onboarding your team remembers well, plus hard cases written in advance: a promise made only in an email, a kickoff request that was never sold, a customer who goes quiet in week two, a status sheet with a column the template does not know. Your customer success lead checks every date, owner and draft before anything goes out. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three customers whose onboarding your team remembers well, plus hard cases written in advance: a promise made only in an email, a kickoff request that was never sold, a customer who goes quiet in week two, a status sheet with a column the template does not know. Your customer success lead checks every date, owner and draft before anything goes out. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-customer-onboarding-plan&from=gh-customer-onboarding-plan) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-customer-onboarding-plan&from=gh-customer-onboarding-plan) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -85,4 +92,4 @@ Testing in your environment means running it on two or three customers whose onb
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-customer-onboarding-plan&from=gh-customer-onboarding-plan).

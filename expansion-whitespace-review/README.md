@@ -1,10 +1,17 @@
 # Expansion whitespace review
 
-For one account or a whole book, the account manager sees what each customer holds against what it could also use, the evidence for every gap, the plays ranked, and one next step and owner for each. A person decides what to propose; nothing goes into the sales system without approval.
+See what each customer holds against what it could also use, with evidence, ranked plays and a next step. A person decides what to propose.
 
-*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/expansion-whitespace-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Expansion whitespace review on our website](https://fullypowered.ai/workflows/expansion-whitespace-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-expansion-whitespace-review&from=gh-expansion-whitespace-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/expansion-whitespace-review/?from=gh-expansion-whitespace-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/expansion-whitespace-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-expansion-whitespace-review&from=gh-expansion-whitespace-review)*
 
 ## The outcome
 
@@ -35,13 +42,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/), which owns the relationship and the growth of each account.
-- [Sales](https://fullypowered.ai/functions/sales/), where account managers carry expansion targets alongside new business.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where products are sold in seats, modules and tiers that customers grow into.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where a client served by one practice or office could use the services of another.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where an agency serving one brand or region of a client could serve its others.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when growing existing customers is the cheaper way to reach the next target.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where a long customer list holds more room to grow than anyone has mapped.
+- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-expansion-whitespace-review&from=gh-expansion-whitespace-review), which owns the relationship and the growth of each account.
+- [Sales](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-expansion-whitespace-review&from=gh-expansion-whitespace-review), where account managers carry expansion targets alongside new business.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-expansion-whitespace-review&from=gh-expansion-whitespace-review), where products are sold in seats, modules and tiers that customers grow into.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-expansion-whitespace-review&from=gh-expansion-whitespace-review), where a client served by one practice or office could use the services of another.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-expansion-whitespace-review&from=gh-expansion-whitespace-review), where an agency serving one brand or region of a client could serve its others.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-expansion-whitespace-review&from=gh-expansion-whitespace-review), when growing existing customers is the cheaper way to reach the next target.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-expansion-whitespace-review&from=gh-expansion-whitespace-review), where a long customer list holds more room to grow than anyone has mapped.
 
 ## What has to change for your company
 
@@ -51,7 +58,7 @@ Write your offer catalogue once: how each offer is priced, its typical annual va
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record of that run is published with it, and lists the clarifications made afterward that have not been run again, among them that only per-user offers are checked for volume. That run did not reach any stop condition. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past quarter's book whose expansion outcomes your team already knows, plus hard cases written in advance: an offer in the export that the catalogue lacks, licences near the limit with no number of new users on record, a customer still inside its first months, a note that asks for a record to be changed. The head of customer success checks every holding, estimate and score against the exports before anyone acts. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past quarter's book whose expansion outcomes your team already knows, plus hard cases written in advance: an offer in the export that the catalogue lacks, licences near the limit with no number of new users on record, a customer still inside its first months, a note that asks for a record to be changed. The head of customer success checks every holding, estimate and score against the exports before anyone acts. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-expansion-whitespace-review&from=gh-expansion-whitespace-review) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-expansion-whitespace-review&from=gh-expansion-whitespace-review) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -80,8 +87,8 @@ Testing in your environment means running it on a past quarter's book whose expa
 
 - [Renewal risk review](../renewal-risk-review/)
 - [Quarterly business review preparation](../quarterly-business-review-preparation/)
-- [Sales pipeline review](https://fullypowered.ai/workflows/sales-pipeline-review/)
+- [Sales pipeline review](https://fullypowered.ai/workflows/sales-pipeline-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-expansion-whitespace-review&from=gh-expansion-whitespace-review)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-expansion-whitespace-review&from=gh-expansion-whitespace-review).
