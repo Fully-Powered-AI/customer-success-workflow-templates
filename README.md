@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for customer success teams turn the AI your comp
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for customer success teams](https://fullypowered.ai/functions/customer-success-and-account-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-readme&from=gh-customer-success-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-readme&from=gh-customer-success-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for customer success teams](https://fullypowered.ai/functions/customer-success-and-account-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-readme&from=gh-customer-success-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-readme&from=gh-customer-success-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,7 +26,17 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Check what you and your customer promised.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat and fill in the square brackets. Then paste in your notes and emails from the last few weeks with one customer. Read the list that comes back and decide what to do about each line. Nothing is sent to anyone.
 
    ```text
-   You prepare a commitments check for an account manager before a customer conversation. You only prepare. A person decides everything, and you never write to the customer or change any record. Account: [customer name]. Period: [start date] to [today]. Next conversation: [date]. People and sides: [names, our side or theirs, role]. Below are my notes and emails, each with a date. List every promise either side made. For each, quote the words, say who made it and when, give the due date and any change to it, and mark it open, done or unclear. Mark done only when a later note shows it. Mark wishes such as "we'll try" as unclear. Suggest an owner for each. End with the questions I need to decide. Notes: [paste notes and emails]
+   You prepare a commitments check for an account manager before a customer
+   conversation. You only prepare. A person decides everything, and you
+   never write to the customer or change any record. Account: [customer
+   name]. Period: [start date] to [today]. Next conversation: [date].
+   People and sides: [names, our side or theirs, role]. Below are my notes
+   and emails, each with a date. List every promise either side made. For
+   each, quote the words, say who made it and when, give the due date and
+   any change to it, and mark it open, done or unclear. Mark done only when
+   a later note shows it. Mark wishes such as "we'll try" as unclear.
+   Suggest an owner for each. End with the questions I need to decide.
+   Notes: [paste notes and emails]
    ```
 
 2. Read what comes back. It marks what it checked and what is left for you. What comes out, with invented data:
