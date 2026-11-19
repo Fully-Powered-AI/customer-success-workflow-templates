@@ -30,7 +30,7 @@ The product manager or service lead who owns the change confirms the status. The
 ## What they supply
 
 - **The change record.** What the change does and does not do, the status of each part left out, who gets it and from when, what may be shared, any workaround and guide, and what must not be mentioned, with the name of the role that confirmed it.
-- **The feedback export** from your product feedback tool. One row per request, with its link to the change, the requester and the account owner.
+- **The feedback export** from your customer success platform or product feedback board. One row per request, with its link to the change, the requester and the account owner.
 - **The contact preferences export.** Each person's preferred channel, whether they have asked not to be contacted, and any timing notes.
 - **The run settings.** The account owner, today's date and the responsible team.
 - **Style notes,** if you have them: sign-off, tone and words you avoid.
