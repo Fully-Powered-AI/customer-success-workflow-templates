@@ -47,6 +47,8 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-client-status-update-preparation&from=gh-client-status-update-preparation): the plan and the client’s view of it agree.
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-client-status-update-preparation&from=gh-client-status-update-preparation): more clients per lead without updates slipping.
 
+More [law firm AI workflow templates](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-client-status-update-preparation&from=gh-client-status-update-preparation) like this one.
+
 ## What has to change for your company
 
 1.  **What counts as confirmed.** For example, only a date the client agreed in writing.
