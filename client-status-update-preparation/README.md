@@ -8,7 +8,7 @@ Drafts each client’s status update from your notes and task list, with confirm
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-status-update-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-client-status-update-preparation&from=gh-client-status-update-preparation)*
@@ -32,11 +32,11 @@ A project manager, responsible attorney, account director or engagement lead sta
 
 ## What comes out
 
-A draft message covering progress, confirmed dates, labelled estimates, client decisions with a needed-by date and the next step, plus a note for the reviewer. The example is an invented 30-person civil engineering firm designing site drainage for a client’s warehouse expansion.
+A draft message covering progress, confirmed dates, labelled estimates, client decisions with a needed-by date and the next step, plus a note for the reviewer. The example is an illustrative 30-person civil engineering firm designing site drainage for a client’s warehouse expansion.
 
 Good means the client knows what to do after one read, and the project manager sees every judgment the draft left for them.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -74,7 +74,7 @@ Testing in your firm means drafting updates for recent weeks and comparing them 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.

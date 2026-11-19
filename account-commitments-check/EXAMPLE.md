@@ -1,6 +1,6 @@
-# Account commitments check: an invented example
+# Account commitments check: an example
 
-*Illustrative example with invented data.* An invented 40-person software company prepares for a conversation with Customer A, an invented 120-person logistics firm. The people are invented too: Maya, our account manager; Tom, our support lead; Ines, Customer A's operations director; Paul, Customer A's IT lead.
+*Illustrative example with sample data.* An illustrative 40-person software company prepares for a conversation with Customer A, an illustrative 120-person logistics firm. The people are illustrative too: Maya, our account manager; Tom, our support lead; Ines, Customer A's operations director; Paul, Customer A's IT lead.
 
 ## What the person supplies
 

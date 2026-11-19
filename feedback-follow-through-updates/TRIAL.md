@@ -1,10 +1,10 @@
-# Feedback follow-through updates: tried on its invented example
+# Feedback follow-through updates: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in [example.md](example.md): the change record, the feedback export, the contact preferences export and the run settings. The company, the customers and the requests are all made up. No client data was used.
+The inputs are the example in [example.md](example.md): the change record, the feedback export, the contact preferences export and the run settings. The company, the customers and the requests are all made up. No client data was used.
 
 This is the second run. The first run was made on the earlier text and led to the revisions listed below. This one was made by the model named above, which made those revisions. It took only the inputs from the example, produced the full output by following the instruction block and the output format, and only then compared it with the example's output. It was one run in one product. It is not a test for a client, and it does not show how the template behaves in other products.
 

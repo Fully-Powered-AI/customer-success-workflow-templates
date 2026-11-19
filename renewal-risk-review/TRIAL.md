@@ -1,12 +1,12 @@
-# Renewal risk review: a trial run on the invented example
+# Renewal risk review: a trial run on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-09
 
-The inputs were the invented example in `public/example.md`: its settings, warning signs, verdict rule and next steps, contract list, owners' notes and last month's review. No client data was used.
+The inputs were the example in `public/example.md`: its settings, warning signs, verdict rule and next steps, contract list, owners' notes and last month's review. No client data was used.
 
-This record replaces the record of an earlier run on the same day. After that run a reviewer asked for changes: the starter list and the default settings were moved into the instruction block, rules were added for checking each account against last month, for plays carried out by two people, for an owner who is also the reviewer, for signs read from notes, for a blank notice date on a contract that renews on signature, for citing a note in a record-gap question, for steps belonging to accounts that have left the window, and for the date style. The invented company's warning signs, verdict rule and next steps were also rewritten so that they are its own rather than the starter list, and its watch response time changed from 14 to 10 days. The earlier run is not comparable with this one, so its page is not kept here.
+This record replaces the record of an earlier run on the same day. After that run a reviewer asked for changes: the starter list and the default settings were moved into the instruction block, rules were added for checking each account against last month, for plays carried out by two people, for an owner who is also the reviewer, for signs read from notes, for a blank notice date on a contract that renews on signature, for citing a note in a record-gap question, for steps belonging to accounts that have left the window, and for the date style. The illustrative company's warning signs, verdict rule and next steps were also rewritten so that they are its own rather than the starter list, and its watch response time changed from 14 to 10 days. The earlier run is not comparable with this one, so its page is not kept here.
 
 ## How the run was made
 
@@ -133,4 +133,4 @@ Prepared for Head of customer success. Nothing has been sent, no customer has be
 
 **Edited after the recorded run (2026-11-09).** The template was edited after this run, which was not repeated. The instruction block and the procedure now say to show only the signs found, the context signs and the unknown ones, and to list under Since last month only the accounts whose verdict changed, which settles the choice above in the example's favour. They also now stop when no contract list is supplied, repeat in the block that context signs never cancel a risk sign under the starter verdict, and add a record gap when the notice date has passed on a contract that renews automatically. The output format, the example's inputs and the page above are unchanged.
 
-**Shortcomings of the trial itself:** one recorded run and one fallback check, one model, one invented example. The model that ran it is the same model as the session that revised the template, in a fresh session. It shows the template can be followed to the same answer from the pasted instructions alone; it does not show how it behaves on a messy real export, a notice-received case or a missing column.
+**Shortcomings of the trial itself:** one recorded run and one fallback check, one model, one example. The model that ran it is the same model as the session that revised the template, in a fresh session. It shows the template can be followed to the same answer from the pasted instructions alone; it does not show how it behaves on a messy real export, a notice-received case or a missing column.

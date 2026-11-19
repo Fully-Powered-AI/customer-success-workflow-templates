@@ -1,10 +1,10 @@
-# Cancellation request response: tried on its invented example
+# Cancellation request response: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example in `public/example.md` (Company A, Customer K, Dana). No client data was used. This is a second run. The first run, on the same day, followed an earlier wording of the template and an earlier version of the example; its record was replaced by this one, because after it the template's instruction block, its reason-group labels and the example's option figures all changed. In this run I had also made those edits myself in the same session, so I was not coming to the template cold: I read the instruction block and the output format again line by line, took only the six inputs from the example (the email request, the account record, the account history, the ending facts, the approved options list and the settings), followed them, and only then compared the result with the example's output and the reviewer checklist.
+The inputs were the example in `public/example.md` (Company A, Customer K, Dana). No client data was used. This is a second run. The first run, on the same day, followed an earlier wording of the template and an earlier version of the example; its record was replaced by this one, because after it the template's instruction block, its reason-group labels and the example's option figures all changed. In this run I had also made those edits myself in the same session, so I was not coming to the template cold: I read the instruction block and the output format again line by line, took only the six inputs from the example (the email request, the account record, the account history, the ending facts, the approved options list and the settings), followed them, and only then compared the result with the example's output and the reviewer checklist.
 
 ## What came out
 
@@ -116,4 +116,4 @@ Prepared for Account manager 2. Nothing has been sent, no account has been cance
 - The account record's next billing date (1 December 2026) sits beside an ending fact of "no invoice on 1 December 2026". The template only checks the ending facts against the customer's request, so it does not say whether to point this out. I left both as supplied, and I give the Billing coordinator the step as the ending facts state it.
 - The ending facts say the data is deleted after the export window but not who does it or on what date. The template does not say what to do with a step that has no named role beyond listing it; I gave it to the Support lead, as the settings name that role for access and data.
 
-**Shortcomings of the trial itself.** It was one run, by one model, on one invented example that includes the traps the template was written to handle, and by the model that had just edited the template. It says nothing about messy real exports, about other products, or about a different model. The template's acceptance tests have not been run as tests.
+**Shortcomings of the trial itself.** It was one run, by one model, on one example that includes the traps the template was written to handle, and by the model that had just edited the template. It says nothing about messy real exports, about other products, or about a different model. The template's acceptance tests have not been run as tests.

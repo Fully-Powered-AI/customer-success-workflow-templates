@@ -8,7 +8,7 @@ Review how one customer journey ended: the final handoff against what done meant
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/customer-journey-ending-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-customer-journey-ending-review&from=gh-customer-journey-ending-review)*
@@ -50,7 +50,7 @@ One review in a fixed order:
 
 It reviews one journey after it ends. To answer a customer asking to leave today, use [Cancellation request response](https://fullypowered.ai/workflows/cancellation-request-response/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-customer-journey-ending-review&from=gh-customer-journey-ending-review); to read the pattern across everyone who left in a quarter, use [Churn risk and save plan](https://fullypowered.ai/workflows/churn-risk-and-save-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-customer-journey-ending-review&from=gh-customer-journey-ending-review); to check a deliverable before it is handed over, use [Project handover readiness check](https://fullypowered.ai/workflows/project-handover-readiness-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-customer-journey-ending-review&from=gh-customer-journey-ending-review).
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -73,7 +73,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 11 November 2026. It was tried once on its invented example in Claude on 11 November 2026, and the record of that run is published with it. Afterwards the wording of the instructions was clarified on several points the run raised, and the example was edited to drop one link that the instructions did not support and one phrase that went beyond the records; it was not run again after those edits. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 11 November 2026. It was tried once on its example in Claude on 11 November 2026, and the record of that run is published with it. Afterwards the wording of the instructions was clarified on several points the run raised, and the example was edited to drop one link that the instructions did not support and one phrase that went beyond the records; it was not run again after those edits. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three endings your team remembers well, with hard cases written in advance: a closing message sent while work was open, a customer who asked twice, a call note that sounds like the customer's words, a feedback comment asking for a refund, an export with a renamed column. The review owner recomputes every day count from the log before anyone relies on the review. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-customer-journey-ending-review&from=gh-customer-journey-ending-review) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-customer-journey-ending-review&from=gh-customer-journey-ending-review) shows the record.
 
@@ -81,13 +81,13 @@ Testing in your environment means running it on two or three endings your team r
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

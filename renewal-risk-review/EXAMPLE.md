@@ -1,6 +1,6 @@
-# Renewal risk review: an invented example
+# Renewal risk review: an example
 
-*Illustrative example with invented data.* The company, its customers, the people, the dates and the amounts below are all invented. The company is an invented 35-person business that sells scheduling software to trade contractors on yearly subscriptions. Its account team is a head of customer success and two account managers; an operations coordinator keeps the contract list. First come the inputs the head of customer success supplied, in full, then the page the workflow template returned.
+*Illustrative example with sample data.* The company, its customers, the people, the dates and the amounts below are all illustrative. The company is an illustrative 35-person business that sells scheduling software to trade contractors on yearly subscriptions. Its account team is a head of customer success and two account managers; an operations coordinator keeps the contract list. First come the inputs the head of customer success supplied, in full, then the page the workflow template returned.
 
 ## The inputs
 

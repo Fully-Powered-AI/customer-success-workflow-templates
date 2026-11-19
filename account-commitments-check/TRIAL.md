@@ -1,10 +1,10 @@
-# Account commitments check: tried once on its invented example
+# Account commitments check: tried once on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (`claude-sonnet-5-5`)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in [example.md](example.md) (Customer A, Maya, Tom, Ines and Paul). No client data was used. The run was a single attempt by a model that did not write the template. It followed the instruction block and the output format in `member/template.md` and read the example's output only after producing its own.
+The inputs are the example in [example.md](example.md) (Customer A, Maya, Tom, Ines and Paul). No client data was used. The run was a single attempt by a model that did not write the template. It followed the instruction block and the output format in `member/template.md` and read the example's output only after producing its own.
 
 ## Inputs used
 

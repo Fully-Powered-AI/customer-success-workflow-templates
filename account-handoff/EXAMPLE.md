@@ -1,6 +1,6 @@
-# Account handoff: an invented example
+# Account handoff: an example
 
-*Illustrative example with invented data.* An invented 80-person managed IT services company has just signed Buyer A, an invented 300-person professional-services firm.
+*Illustrative example with sample data.* An illustrative 80-person managed IT services company has just signed Buyer A, an illustrative 300-person professional-services firm.
 
 **Account handoff: Buyer A**
 

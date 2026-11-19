@@ -1,6 +1,6 @@
-# Churn risk and save plan: an invented example
+# Churn risk and save plan: an example
 
-*Illustrative example with invented data.* The company, its customers, the people, the dates and the amounts below are all invented. The company is an invented 18-person business that sells online class booking to independent fitness studios on monthly plans. Its customer team is a head of customer success, two account managers and a support lead; an operations coordinator handles billing, and a product lead and the founder decide what changes. First come the inputs the head of customer success supplied, in full, then the plan the workflow template returned.
+*Illustrative example with sample data.* The company, its customers, the people, the dates and the amounts below are all illustrative. The company is an illustrative 18-person business that sells online class booking to independent fitness studios on monthly plans. Its customer team is a head of customer success, two account managers and a support lead; an operations coordinator handles billing, and a product lead and the founder decide what changes. First come the inputs the head of customer success supplied, in full, then the plan the workflow template returned.
 
 ## The inputs
 

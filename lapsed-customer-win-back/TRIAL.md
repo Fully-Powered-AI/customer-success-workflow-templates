@@ -1,11 +1,11 @@
-# Trial: Lapsed-customer win-back, run on its invented example
+# Trial: Lapsed-customer win-back, run on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-10
 - **Template version:** 0.1.0
 
-The inputs were the invented example in [example.md](example.md): the settings, the two approved offers, the voice notes, the order history, the customer list, the open issues and the win-back log. The company, its customers and every figure are invented, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
+The inputs were the example in [example.md](example.md): the settings, the two approved offers, the voice notes, the order history, the customer list, the open issues and the win-back log. The company, its customers and every figure are illustrative, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
 
 This is the second run on the same example. An earlier run the same day, by Claude Sonnet 5.5, matched every figure but showed where the instructions left room to guess. The instructions, the output format and the example were revised, and the run recorded here was made on the revised instructions. This run was not independent: it was made by the same assistant that made the revisions, after reading the earlier run's record and the earlier published example, and the published example's output is this run's output. What the earlier run found, and what was changed, is at the end.
 
@@ -119,4 +119,4 @@ The earlier run, by Claude Sonnet 5.5 on the same day, had not written the templ
 
 What was changed before this run: each note now stops after its question; dates are written in full in the notes and subjects too; items are named as written; an offer whose validity runs from a date the note does not show is raised under "Check before approving", and the example's offers now give a date; the recent issue window counts back from the run date; the offer line is not counted in the note length; a customer's own request in an issue stays with the issue; "Call first" names the person who handles complaints; a stop request in the win-back log puts the customer under "Not drafted" and, unless contact is already "no", raises a record gap; the procedure now lists "the days counted" among what a note never mentions, as the pasted instructions already did; and the example's output uses the plain layout.
 
-This was one run on one invented example. It shows the revised instructions can be followed to the format and give the same figures as the earlier run. It does not show how they behave on a real business's records, or in another product.
+This was one run on one example. It shows the revised instructions can be followed to the format and give the same figures as the earlier run. It does not show how they behave on a real business's records, or in another product.

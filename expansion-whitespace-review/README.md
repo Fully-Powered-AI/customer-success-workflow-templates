@@ -8,7 +8,7 @@ See what each customer holds against what it could also use, with evidence, rank
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/expansion-whitespace-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-expansion-whitespace-review&from=gh-expansion-whitespace-review)*
@@ -38,7 +38,7 @@ One page in a fixed order. At the top, the sources, the settings used and the co
 
 Then a section for each account: what it holds today, the whitespace map in four lines, the ranked plays with their evidence, estimate, score, approach and next step, the plays held and why, and the gaps with no evidence yet. After the accounts come the sales-system records proposed for the strong and moderate plays, written out for the head of customer success to approve and a person to create; the gaps in the export, written as questions for whoever keeps it; and any note that asked for something to be done, quoted and left undone.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -56,7 +56,7 @@ Write your offer catalogue once: how each offer is priced, its typical annual va
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026; the record of that run is published with it, and lists the clarifications made afterward that have not been run again, among them that only per-user offers are checked for volume. That run did not reach any stop condition. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026; the record of that run is published with it, and lists the clarifications made afterward that have not been run again, among them that only per-user offers are checked for volume. That run did not reach any stop condition. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past quarter's book whose expansion outcomes your team already knows, plus hard cases written in advance: an offer in the export that the catalogue lacks, licences near the limit with no number of new users on record, a customer still inside its first months, a note that asks for a record to be changed. The head of customer success checks every holding, estimate and score against the exports before anyone acts. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-expansion-whitespace-review&from=gh-expansion-whitespace-review) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-expansion-whitespace-review&from=gh-expansion-whitespace-review) describes the record we keep.
 
@@ -64,13 +64,13 @@ Testing in your environment means running it on a past quarter's book whose expa
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

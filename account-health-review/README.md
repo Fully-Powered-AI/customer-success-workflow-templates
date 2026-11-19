@@ -8,7 +8,7 @@ See which accounts in your book need attention each period, what changed and the
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/account-health-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-health-review&from=gh-account-health-review)*
@@ -42,7 +42,7 @@ Each export has set column headings. When a heading the review needs is missing,
 
 One page in a fixed order. At the top, the book in four groups with a count and annual value for each: needs attention, set apart, no sign found but data missing, and no sign found. Then each account needing attention, with its signs, the evidence for each, what is on file this period and a blank for the lead's call. Then the set-apart accounts with the note that explains them, every missing piece of data with the person to ask, and the accounts with no sign. It ends with what moved since the last review and any note that asked for something to be changed, quoted and left undone.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -61,7 +61,7 @@ It looks at the whole book for change. Contracts coming up for renewal, with not
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 12 November 2026. It was tried once on its invented example on 12 November 2026, in Claude, and the record is published. It has not been tested in a client environment and has not been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 12 November 2026. It was tried once on its example on 12 November 2026, in Claude, and the record is published. It has not been tested in a client environment and has not been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three past periods whose problem accounts your team already knows, with hard cases written in advance: an account missing from the usage export, a drop your context notes explain, a customer whose only recent contact was a newsletter, a note asking for a flag to be cleared. The head of customer success checks every sign against the exports before anyone acts. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-health-review&from=gh-account-health-review) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-account-health-review&from=gh-account-health-review) describes the record we keep.
 
@@ -69,13 +69,13 @@ Testing in your environment means running it on two or three past periods whose 
 - Sources and rights reviewed.
 - Editorially reviewed on 12 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 12 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 12 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

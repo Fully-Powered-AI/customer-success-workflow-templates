@@ -299,4 +299,4 @@ do not repeat them and tell the user to remove them.
 
 ## Version notes
 
-- 0.1.0, 12 November 2026. Written by FullyPowered AI from its own published map of the work. Editorially reviewed. Tried once on its invented example, in Claude, on 12 November 2026; the record is published. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 12 November 2026. Written by FullyPowered AI from its own published map of the work. Editorially reviewed. Tried once on its example, in Claude, on 12 November 2026; the record is published. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

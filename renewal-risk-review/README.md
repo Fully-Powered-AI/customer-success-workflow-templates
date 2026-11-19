@@ -8,7 +8,7 @@ Get every contract up for renewal on one page each month, with warning signs, a 
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/renewal-risk-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-renewal-risk-review&from=gh-customer-success-renewal-risk-review)*
@@ -39,7 +39,7 @@ One page in a fixed order. At the top, the totals: how many accounts renew in th
 
 After the calendar come the expansion signs for each owner to consider, the gaps in the contract list written as questions for whoever keeps it, and what changed since last month. A blank field is shown as unknown, never treated as good news.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -56,7 +56,7 @@ Write down your warning signs: which fields show them, and how many it takes to 
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example on 9 November 2026 in two runs and a shorter check of its starter warning signs: the instructions were revised after the first run, and the record of the second, a blind run, is published with it. Its verdicts, dates, next steps and totals matched the example, with small departures from the page layout that the record lists. The instructions were tightened after that run, and the record says how. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its example on 9 November 2026 in two runs and a shorter check of its starter warning signs: the instructions were revised after the first run, and the record of the second, a blind run, is published with it. Its verdicts, dates, next steps and totals matched the example, with small departures from the page layout that the record lists. The instructions were tightened after that run, and the record says how. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three past months whose renewals your team already knows the outcome of, plus hard cases written in advance: a notice date after the contract end, a blank warning-sign field, a customer who has already given notice. The head of customer success checks every date and verdict against the contract list before anyone acts. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-renewal-risk-review&from=gh-customer-success-renewal-risk-review) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-renewal-risk-review&from=gh-customer-success-renewal-risk-review) describes the record we keep.
 
@@ -64,13 +64,13 @@ Testing in your environment means running it on two or three past months whose r
 - Sources and rights reviewed.
 - Editorially reviewed on 9 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 9 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 9 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

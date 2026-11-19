@@ -8,7 +8,7 @@ Give each new customer one plan for the first weeks: milestones with owners on b
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/customer-onboarding-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-customer-onboarding-plan&from=gh-customer-onboarding-plan)*
@@ -41,7 +41,7 @@ One plan in a fixed order: the outcome and its date; what must be settled before
 
 On a progress run, each milestone is marked done by the customer, done with your help, not done or not reported, and anything stalling comes with its likely cause, the honest fix and an owner. A status nobody reported is a question, never assumed done.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -57,7 +57,7 @@ Write your facts once: your usual onboarding steps, who on your team owns each, 
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example on 9 November 2026 in two runs. The first showed where the instructions left room to guess, such as how the window's last day is counted, whether a customer's data file comes before the first milestone or is the first milestone, and what to do with usual steps or sessions beyond what was sold; the instructions and the example were revised. The record of the second run is published with it: the plan held every section, the window, the settle-first item, the routing of unsold requests and the questions about seats and sessions came out as intended, and the record lists the small edits made afterward that have not been run again. The progress run, the check for a customer gone quiet and the list of reasons a customer stalls have not been tried. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its example on 9 November 2026 in two runs. The first showed where the instructions left room to guess, such as how the window's last day is counted, whether a customer's data file comes before the first milestone or is the first milestone, and what to do with usual steps or sessions beyond what was sold; the instructions and the example were revised. The record of the second run is published with it: the plan held every section, the window, the settle-first item, the routing of unsold requests and the questions about seats and sessions came out as intended, and the record lists the small edits made afterward that have not been run again. The progress run, the check for a customer gone quiet and the list of reasons a customer stalls have not been tried. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three customers whose onboarding your team remembers well, plus hard cases written in advance: a promise made only in an email, a kickoff request that was never sold, a customer who goes quiet in week two, a status sheet with a column the template does not know. Your customer success lead checks every date, owner and draft before anything goes out. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-customer-onboarding-plan&from=gh-customer-onboarding-plan) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=customer-success-customer-onboarding-plan&from=gh-customer-onboarding-plan) describes the record we keep.
 
@@ -65,13 +65,13 @@ Testing in your environment means running it on two or three customers whose onb
 - Sources and rights reviewed.
 - Editorially reviewed on 9 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 9 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 9 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

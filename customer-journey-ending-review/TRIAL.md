@@ -1,10 +1,10 @@
-# Trial of the customer journey ending review on its invented example
+# Trial of the customer journey ending review on its example
 
 - **Product:** Claude, run in Claude Code
 
 Model: Claude Sonnet 5.5 (model ID claude-sonnet-5-5). Date: 2026-11-11.
 
-The inputs were the invented example published with this template (Company A, Customer B). No client data was used. I used only the four inputs in `public/example.md` (the brief, the six completion criteria, the 22-row journey log and the two feedback items). I followed the instruction block and the output format in `member/template.md`, produced the review, and only then read the example's own output and the reviewer checklist. I did not write the template.
+The inputs were the example published with this template (Company A, Customer B). No client data was used. I used only the four inputs in `public/example.md` (the brief, the six completion criteria, the 22-row journey log and the two feedback items). I followed the instruction block and the output format in `member/template.md`, produced the review, and only then read the example's own output and the reviewer checklist. I did not write the template.
 
 ## What came out
 

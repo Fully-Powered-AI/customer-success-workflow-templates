@@ -1,13 +1,13 @@
-# Customer onboarding plan: one trial run on the invented example
+# Customer onboarding plan: one trial run on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID `claude-opus-5-5`)
 - **Date:** 2026-11-09
 - **Template version:** 0.1.0
 
-This is a record of one run of the workflow template on its own invented example (Customer K, an invented architecture studio, and an invented seller of time-tracking and invoicing software). The companies, the people, the dates and the notes are invented, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
+This is a record of one run of the workflow template on its own example (Customer K, an illustrative architecture studio, and an illustrative seller of time-tracking and invoicing software). The companies, the people, the dates and the notes are illustrative, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
 
-This is the second run on the same example. An earlier run the same day showed where the instructions left room to guess; the instructions, the output format and the example were revised, and the run recorded here was made on the revised instructions. What the earlier run found, and what was changed, is at the end. Dates inside the plan belong to the invented scenario (today is Thursday 12 November 2026 there); the date above is the day of the trial.
+This is the second run on the same example. An earlier run the same day showed where the instructions left room to guess; the instructions, the output format and the example were revised, and the run recorded here was made on the revised instructions. What the earlier run found, and what was changed, is at the end. Dates inside the plan belong to the illustrative scenario (today is Thursday 12 November 2026 there); the date above is the day of the trial.
 
 ## How it was run
 
@@ -272,7 +272,7 @@ Prepared for customer success lead. Nothing has been sent, no one at Customer K 
 
 **Against the reviewer checklist,** the run's plan meets items 1 to 8 as far as they apply to a first plan. Item 3 needs attention for the stray flag on M3, and item 6 for message 4's "each day from today", an ask the plan itself does not make. Item 9 is the progress run and was not exercised.
 
-**What this run does not show.** It is one run on one invented example, by one model. It did not exercise a progress run, the silent-account check, a stall, an unmatched column or any decline or stop rule. The template's acceptance tests have not been run.
+**What this run does not show.** It is one run on one example, by one model. It did not exercise a progress run, the silent-account check, a stall, an unmatched column or any decline or stop rule. The template's acceptance tests have not been run.
 
 ## The earlier run, and what was changed
 

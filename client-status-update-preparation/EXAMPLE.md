@@ -1,6 +1,6 @@
-# Client-status update preparation: an invented example
+# Client-status update preparation: an example
 
-*Illustrative example with invented data.* The sources on update day.
+*Illustrative example with sample data.* The sources on update day.
 
 | Source | What it says |
 |----|----|
@@ -8,7 +8,7 @@
 | Task list, 9 November | Layout sent 6 November. Planning submission 20 November: confirmed with Client C’s planning consultant. Final drawings 11 December: estimate. |
 | Project notes, 9 November | Both detention-tank locations work. Client C must choose by 13 November to hold the 11 December estimate. Internal: drafting team shared with another project in December. |
 
-*Illustrative example with invented data.* The draft update.
+*Illustrative example with sample data.* The draft update.
 
 ```
 Subject: Project 7731 status, week of 9 November
@@ -32,7 +32,7 @@ confirm the drawings date once you choose.
 [Project manager]
 ```
 
-*Illustrative example with invented data.* The note for the reviewer.
+*Illustrative example with sample data.* The note for the reviewer.
 
 **Reviewer note: Project 7731 update**
 

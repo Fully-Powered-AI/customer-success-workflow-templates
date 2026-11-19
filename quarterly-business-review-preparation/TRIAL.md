@@ -1,17 +1,17 @@
-# Quarterly business review preparation: tried on its invented example
+# Quarterly business review preparation: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-09
 - **Template version:** 0.1.0
 
-The inputs were the invented example in [example.md](example.md): the settings, success plan, results log, activity figures, notes, last review's commitments, open issues and proposals for "Customer K". No client data was used.
+The inputs were the example in [example.md](example.md): the settings, success plan, results log, activity figures, notes, last review's commitments, open issues and proposals for "Customer K". No client data was used.
 
 This is the second run on the same example. An earlier run the same day, by Claude Sonnet 5.5, showed where the instructions left room to guess; the instructions and the example's output were revised after review, and the run recorded here was made on the revised instructions. What the earlier run found, and what was changed, is at the end.
 
 The run was a fresh session started from Claude Code with no tools and no access to any file. The template's instructions for an AI assistant and its output format were given as the session's instructions, and the example's eight inputs were sent as one message. The session did not see the example's published output or the earlier run. The model is the same model that applied the review's edits, in a separate session.
 
-This is one run on an invented example. It is not a test in a client environment.
+This is one run on an example. It is not a test in a client environment.
 
 ## What came out
 
@@ -138,7 +138,7 @@ Notes for you:
 - This run added sentences the format does not ask for: two lines about the defaults on the "Not supplied" line, a note on G2's status line that the pack does not choose, a sentence on the price under Notes to check, and the goal owners by name in the results agenda item.
 - This run pointed out, under People, that two people hold the title "Dispatch lead" and the settings do not say which is invited. The example does not.
 - This run gave the monthly commitment's next-quarter due date as "by the 5th of each month"; the example writes "monthly". The template asks for "the recurring due date", which supports either.
-- After the closing line, this run added "Notes for you": its own recomputation, and a remark that the run date in the settings (12 October 2026) is earlier than the date of the session (9 November 2026), so the review had already passed. The example's dates are invented and the remark comes from the session's own date, not from the inputs.
+- After the closing line, this run added "Notes for you": its own recomputation, and a remark that the run date in the settings (12 October 2026) is earlier than the date of the session (9 November 2026), so the review had already passed. The example's dates are illustrative and the remark comes from the session's own date, not from the inputs.
 - This run set the pack out in plain text with a few bulleted lists; the example sets it out as headed sections with bullets, like the other published examples.
 
 **Facts not in the inputs.** Neither output states a figure that is not in the inputs. The send date (Tuesday 20 October 2026) is worked out from the settings. The quarter's name comes from the dates by the stated default.

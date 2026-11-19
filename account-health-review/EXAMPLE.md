@@ -1,6 +1,6 @@
-# Account health review across the book: an invented example
+# Account health review across the book: an example
 
-*Illustrative example with invented data.* The company, its customers, the people, the tickets, the invoices, the notes and every figure and date below are invented. The company is an invented 50-person business that sells booking and membership software to fitness studios and climbing gyms, billed quarterly. Its customers appear as Customer A to Customer H, and their staff by role only. The customer success team is a head of customer success, two customer success managers (CSM 1 and CSM 2) and a customer success operations analyst; a product analyst, a support lead and a finance manager keep the other exports.
+*Illustrative example with sample data.* The company, its customers, the people, the tickets, the invoices, the notes and every figure and date below are illustrative. The company is an illustrative 50-person business that sells booking and membership software to fitness studios and climbing gyms, billed quarterly. Its customers appear as Customer A to Customer H, and their staff by role only. The customer success team is a head of customer success, two customer success managers (CSM 1 and CSM 2) and a customer success operations analyst; a product analyst, a support lead and a finance manager keep the other exports.
 
 On Monday 2 November 2026 the customer success operations analyst gathered October's exports and ran the review for the head of customer success. The inputs come first, in full, so the workflow template can be run on them. The page it returned follows.
 

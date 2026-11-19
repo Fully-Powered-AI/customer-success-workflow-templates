@@ -1,6 +1,6 @@
-# Customer journey ending review: an invented example
+# Customer journey ending review: an example
 
-*Illustrative example with invented data.* Company A, Customer B, the people, the records and the dates below are all invented. Company A is an invented 30-person digital agency that builds online stores for small retailers and hands each one over at the end of the project. Customer B, an invented home-goods retailer, gave the close survey 5 out of 10. Noor Ellery, Company A's customer experience lead, supplied the inputs below in full on Wednesday 11 November 2026; the review the workflow template returned comes after them.
+*Illustrative example with sample data.* Company A, Customer B, the people, the records and the dates below are all illustrative. Company A is an illustrative 30-person digital agency that builds online stores for small retailers and hands each one over at the end of the project. Customer B, an illustrative home-goods retailer, gave the close survey 5 out of 10. Noor Ellery, Company A's customer experience lead, supplied the inputs below in full on Wednesday 11 November 2026; the review the workflow template returned comes after them.
 
 ## The inputs
 

@@ -1,10 +1,10 @@
-# Expansion whitespace review: tried on its invented example
+# Expansion whitespace review: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example's own: the settings, offer catalogue, holdings export, account structure, contacts, account health and account notes in `public/example.md`, section "The inputs". The company, customers and people are all invented. No client data was used. The assistant that ran the template did not write it, and it read the example's output only after producing its own.
+The inputs were the example's own: the settings, offer catalogue, holdings export, account structure, contacts, account health and account notes in `public/example.md`, section "The inputs". The company, customers and people are all illustrative. No client data was used. The assistant that ran the template did not write it, and it read the example's output only after producing its own.
 
 The instruction block and the output format were followed as written, once, with no changes. Nothing was installed or connected, and nothing was sent.
 
@@ -131,7 +131,7 @@ Prepared for the head of customer success. Nothing has been sent, no customer ha
 
 Smaller points: the output format's `[earliest stage]` and role placeholders are filled from the settings, which worked; the instruction block's step numbers differ from the procedure's, which is harmless; and the template's acceptance tests are still marked as proposed, not run.
 
-The acceptance tests were not run separately. This was one trial on one invented example, in one product, on one date. It shows that the template can be followed to a complete, checkable page. It does not show how it behaves with a real sales export, or in any other product, and nothing here is a test for a client.
+The acceptance tests were not run separately. This was one trial on one example, in one product, on one date. It shows that the template can be followed to a complete, checkable page. It does not show how it behaves with a real sales export, or in any other product, and nothing here is a test for a client.
 
 ## Edits made after this run, not run again
 

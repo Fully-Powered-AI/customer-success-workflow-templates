@@ -333,4 +333,4 @@ Recheck every day count against the log before returning the review.
 
 ## Version notes
 
-- 0.1.0, 11 November 2026. Written by FullyPowered AI from its own published map of the work. Editorially reviewed. Tried once on its invented example in Claude on 11 November 2026 (record in the public trial); afterwards the wording was clarified on the points the trial raised and the example was edited to drop one link and one unsupported phrase, and it was not run again. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 11 November 2026. Written by FullyPowered AI from its own published map of the work. Editorially reviewed. Tried once on its example in Claude on 11 November 2026 (record in the public trial); afterwards the wording was clarified on the points the trial raised and the example was edited to drop one link and one unsupported phrase, and it was not run again. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

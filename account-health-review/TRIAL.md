@@ -1,10 +1,10 @@
-# Account health review across the book: trial on the invented example
+# Account health review across the book: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-12
 
-The inputs are the invented example in `public/example.md` (settings, warning signs, account list, usage export, support export, billing export, relationship log, context note and last review, sections 1 to 9). No client data was used. The model that ran this did not write the template. It read the template and those inputs only, produced the page, and only then compared it with the published output and the reviewer checklist.
+The inputs are the example in `public/example.md` (settings, warning signs, account list, usage export, support export, billing export, relationship log, context note and last review, sections 1 to 9). No client data was used. The model that ran this did not write the template. It read the template and those inputs only, produced the page, and only then compared it with the published output and the reviewer checklist.
 
 ## What came out
 
@@ -100,11 +100,11 @@ Prepared for the head of customer success. No account has been scored, no custom
 6. For a cleared account (Customer B), the template says to name the group it is in now. It does not say whether the cleared flag was a resolved invoice or one that dropped out of the billing export, because the export covers only invoices unpaid or paid in the two periods. The last review's invoice (INV-2190) cannot be found in the current export either way. This run followed the template and said only "now no sign found".
 7. "Also missing at the last review" for Customer H's blank renewal date cannot be known: the last review recorded only the empty relationship log for that account. This run left the phrase off that line.
 8. Customer G's log entry says it is moving to new premises in November. It is not a context note and G is not under needs attention, so the template gives it no place on the page. It was not shown. A reader might want it near the missing usage row.
-9. The format line "Owner: [role / not stated]" is filled with "CSM 1" and "CSM 2", which are labels for people, not roles, in the invented data. This run printed them as given.
+9. The format line "Owner: [role / not stated]" is filled with "CSM 1" and "CSM 2", which are labels for people, not roles, in the sample data. This run printed them as given.
 
 **Defects found in the template.**
 
-- The version notes still say "Not yet tried on its invented example". This trial changes that, and the line should be updated.
+- The version notes still say "Not yet tried on its example". This trial changes that, and the line should be updated.
 - The format's header line for "Columns not used" and the definition in the inputs section do not agree on whether a column used only for evidence is "used" (item 1 above).
 - The Missing data line lists "Unknown: none" for a gap such as a blank renewal date. It is correct but reads as if it were a missing sign. A note that such a gap leaves no sign unknown would help.
 
