@@ -4,6 +4,8 @@ For every new customer, your customer success lead gets one plan for the first w
 
 *Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/customer-onboarding-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/customer-onboarding-plan/?from=gh-customer-onboarding-plan)
+
 ## The outcome
 
 Every new customer starts with a plan built around one moment: the first time their own person does the work they bought you for, on their own real work, without your help, and checks the result. The plan names that moment in the customer's words and dates it to the first real piece of their work that falls inside the onboarding window.

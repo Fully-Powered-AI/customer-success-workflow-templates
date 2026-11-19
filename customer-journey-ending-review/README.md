@@ -4,6 +4,8 @@ When a customer's journey ends on a sour note, your customer experience lead get
 
 *Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/customer-journey-ending-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/customer-journey-ending-review/?from=gh-customer-journey-ending-review)
+
 ## The outcome
 
 The last weeks of a journey are often what a customer remembers and tells others about. This review takes one ending (an offboarding, a cancellation, a project close, a delivery, an onboarding milestone) and reads it from the records rather than from memory.

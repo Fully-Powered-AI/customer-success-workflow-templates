@@ -4,6 +4,8 @@ For one account or a whole book, the account manager sees what each customer hol
 
 *Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/expansion-whitespace-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/expansion-whitespace-review/?from=gh-expansion-whitespace-review)
+
 ## The outcome
 
 Growth from existing customers stops depending on who happens to remember what. For each account, the page lays what the customer already holds beside everything else on your own offer list it could use, across four directions: offers it has never bought, teams that do not use what a neighbouring team uses, sites still missing an add-on, and licences close to their limit.

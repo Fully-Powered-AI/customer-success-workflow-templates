@@ -4,6 +4,8 @@ Every client gets an accurate status update on schedule, drafted from the notes 
 
 *Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-status-update-preparation/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/client-status-update-preparation/?from=gh-client-status-update-preparation)
+
 ## The outcome
 
 A fully powered client team sends every client a clear update on the day it is due, and every line in it is true. The client sees what moved, which dates are committed, which are still estimates and which decisions only the client can make. Each lead can run 10X the client relationships with the same care.

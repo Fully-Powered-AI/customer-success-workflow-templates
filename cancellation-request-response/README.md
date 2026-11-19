@@ -4,6 +4,8 @@ When a customer asks to cancel or cut back, the account manager gets one page: t
 
 *Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/cancellation-request-response/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/cancellation-request-response/?from=gh-cancellation-request-response)
+
 ## The outcome
 
 Every customer who asks to leave gets a fast, clear, gracious answer, and your account manager writes it with the whole account in view. The page restates exactly what the customer asked for and from when, quotes the reason they gave, and lays out the account's recent story: plan changes, tickets, usage, any earlier request or open complaint.

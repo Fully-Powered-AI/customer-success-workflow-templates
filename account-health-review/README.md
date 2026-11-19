@@ -4,6 +4,8 @@ Each week or month, the customer success lead sees which accounts in the book ne
 
 *Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/account-health-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/account-health-review/?from=gh-account-health-review)
+
 ## The outcome
 
 The whole book comes into view in one sitting, not just the accounts someone happens to be worried about. Every account is checked against the same warning signs, the ones your team already trusts: usage falling against the last period, a jump in support tickets, an urgent ticket still open, an invoice long overdue, a customer nobody has spoken with in weeks, a main contact who has left. Each account that needs attention arrives with the signs it shows, this period's figure beside last period's, and the ticket, invoice or log entry behind it, so the lead can check any line against its source.

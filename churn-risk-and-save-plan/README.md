@@ -4,6 +4,8 @@ Once a quarter, the owner or account lead sees why customers really left, read f
 
 *Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/churn-risk-and-save-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/churn-risk-and-save-plan/?from=gh-churn-risk-and-save-plan)
+
 ## The outcome
 
 You stop guessing why customers go. The reason a customer clicks on the way out is often not the reason they left: "not enough use" can turn out to be a setup that never worked, or a champion who moved on. This plan reads the whole story in your own records, puts the events in order, and names the cause the evidence supports. Where two causes fit, it says so and asks the question that settles it instead of picking one.

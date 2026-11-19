@@ -4,6 +4,8 @@ Once a month, the account manager sees every contract coming up for renewal on o
 
 *Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/renewal-risk-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/renewal-risk-review/?from=gh-customer-success-renewal-risk-review)
+
 ## The outcome
 
 No renewal arrives as a surprise. Every contract ending in the next four months sits on one page, sorted by the date that matters most: the last day the customer can give notice, or the contract end when there is no notice date. Each account carries a start-by date, so a conversation that should have opened last month shows up as late instead of quietly slipping.

@@ -4,6 +4,8 @@ When a change ships or a decision lands on something customers asked for, your a
 
 *Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/feedback-follow-through-updates/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/feedback-follow-through-updates/?from=gh-feedback-follow-through-updates)
+
 ## The outcome
 
 Every customer who took the time to ask hears back, personally, about what they asked for. The update speaks to their request, in their terms: what is live now, what part is still open and where that part stands. It arrives by email, in a call, in a message or at their next account meeting, whichever they prefer.

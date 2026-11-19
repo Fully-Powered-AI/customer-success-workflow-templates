@@ -4,6 +4,8 @@ Once a month, the owner or account manager sees which regular customers have gon
 
 *Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/lapsed-customer-win-back/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/lapsed-customer-win-back/?from=gh-lapsed-customer-win-back)
+
 ## The outcome
 
 Good customers stop drifting away unnoticed. The yardstick is each customer's own habit: a café that orders every fortnight is flagged after a few quiet weeks, while a salon that restocks once a quarter is left alone until its pause is genuinely long. Customers who are slipping but not yet lapsed are listed too, with the date they would cross the line, so the account team can act early.

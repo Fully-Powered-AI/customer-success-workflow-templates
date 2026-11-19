@@ -4,6 +4,8 @@ Before the next customer conversation, the account manager gets one list of what
 
 *Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/account-commitments-check/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/account-commitments-check/?from=gh-account-commitments-check)
+
 ## The outcome
 
 The account manager walks into the next conversation knowing what has been promised on both sides since the last review, and what became of each promise. Our own promises are in the list as plainly as the customer's. Nobody is surprised by something said six weeks ago in a meeting they did not attend.

@@ -4,6 +4,8 @@ Before each customer's quarterly review, the account manager gets a pack built o
 
 *Workflow template · Customer success and account management · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/quarterly-business-review-preparation/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/quarterly-business-review-preparation/?from=gh-quarterly-business-review-preparation)
+
 ## The outcome
 
 The review is about what the customer set out to achieve, not about how busy their team has been in the product. Every goal the customer agreed appears in their own words, with its baseline, its target and the quarter's result, and a plain status: met, progressing, not moving, not measured, or figures that disagree. Each result says where it came from: the customer's own report, your own system, or something a person at the customer said. Nothing in the pack is a figure the record does not hold.
